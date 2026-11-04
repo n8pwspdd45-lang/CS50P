@@ -1,5 +1,7 @@
 # DNA to Protein Toolkit
 
+**Video Demo: [link here](https://www.youtube.com/watch?v=44wKe6cC1WU)**
+
 A Python command-line toolkit for analyzing DNA sequences and coding sequences (CDS).
 The program reads FASTA files, validates sequences, and performs a range of
 bioinformatics operations: GC content calculation, *in silico* transcription to
